@@ -64,7 +64,7 @@
 以下均为我熟练使用的技能
 
 - Web开发：LNMP
-- Web框架：Yaf/Yii
+- Web框架：Yaf
 - 数据库相关：MySQL/PDO/SQLite
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer
 - 单元测试：PHPUnit
