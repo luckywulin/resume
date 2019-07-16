@@ -71,5 +71,5 @@
 - NOSQL: Redis,MongoDB
 - 队列：Kafka,Beanstalkd,Rabbitmq
 
-#自我评价
+# 自我评价
 技术基础比较扎实，灵活运用能力较强，抗压能力好，喜欢做有挑战的事情，工程上有一定的完美主义倾向。
