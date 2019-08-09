@@ -5,6 +5,7 @@
 - Email：luckywulin@gmail.com 
 - 吴淋/男/1988 
 - 本科/南京大学计算机科学与技术
+- 最新简历：https://github.com/luckywulin/resume/edit/master/README.md
 
 # 工作经历
 
