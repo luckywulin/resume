@@ -1,8 +1,8 @@
 
 # 个人信息
 
-- 手机：18701496016
-- Email：luckywulin@gmail.com 
+- 手机：18410906016
+- Email：405589444@qq.com 
 - 吴淋/男/1988 
 - 本科/南京大学计算机科学与技术
 - 个人简历：https://github.com/luckywulin/resume
